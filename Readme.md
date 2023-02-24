@@ -10,7 +10,7 @@ Manual Installation
 -------------------
 * Copy the folder to /usr/share/sddm/themes/
 ```
-$ sudo cp -r archlinux-kde-sddm-theme/  /usr/share/sddm/themes/
+$ sudo cp -r archlinux-kde-sddm-theme/archlinux-kde  /usr/share/sddm/themes/
 
 ```
 * Then, either change the current theme in System Settings; or: 
